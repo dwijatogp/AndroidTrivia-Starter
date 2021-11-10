@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.activity:activity:1.1.0@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-2/files-2.1/ddd35ac4f1ec69570711229dbf585686/jetified-activity-1.1.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-3/e13174830dfd93f70f28c5b6f5927702/transformed/jetified-activity-1.1.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-3/e13174830dfd93f70f28c5b6f5927702/transformed/jetified-activity-1.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-3/e13174830dfd93f70f28c5b6f5927702/transformed/jetified-activity-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-3/9959eaf28049dc84a875a0a139bbeb6c/transformed/jetified-activity-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-3/9959eaf28049dc84a875a0a139bbeb6c/transformed/jetified-activity-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.6.1/caches/transforms-3/9959eaf28049dc84a875a0a139bbeb6c/transformed/jetified-activity-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
